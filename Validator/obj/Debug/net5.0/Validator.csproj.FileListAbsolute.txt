@@ -1,0 +1,12 @@
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/bin/Debug/net5.0/Validator.deps.json
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/bin/Debug/net5.0/Validator.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/bin/Debug/net5.0/ref/Validator.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/bin/Debug/net5.0/Validator.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/obj/Debug/net5.0/Validator.csprojAssemblyReference.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/obj/Debug/net5.0/Validator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/obj/Debug/net5.0/Validator.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/obj/Debug/net5.0/Validator.AssemblyInfo.cs
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/obj/Debug/net5.0/Validator.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/obj/Debug/net5.0/Validator.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/obj/Debug/net5.0/ref/Validator.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Validator/obj/Debug/net5.0/Validator.pdb

@@ -1,0 +1,9 @@
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/bin/Debug/netstandard2.1/Service.deps.json
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/bin/Debug/netstandard2.1/Service.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/bin/Debug/netstandard2.1/Service.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/obj/Debug/netstandard2.1/Service.csprojAssemblyReference.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/obj/Debug/netstandard2.1/Service.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/obj/Debug/netstandard2.1/Service.AssemblyInfo.cs
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/obj/Debug/netstandard2.1/Service.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/obj/Debug/netstandard2.1/Service.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Service/obj/Debug/netstandard2.1/Service.pdb

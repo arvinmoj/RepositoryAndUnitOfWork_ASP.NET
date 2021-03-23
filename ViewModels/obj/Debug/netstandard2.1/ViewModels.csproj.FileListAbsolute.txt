@@ -1,0 +1,16 @@
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/ViewModels.deps.json
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/ViewModels.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/ViewModels.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/Models.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/Moj.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/Resources.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/Moj.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/Models.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/bin/Debug/netstandard2.1/Resources.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/obj/Debug/netstandard2.1/ViewModels.csprojAssemblyReference.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/obj/Debug/netstandard2.1/ViewModels.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/obj/Debug/netstandard2.1/ViewModels.AssemblyInfo.cs
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/obj/Debug/netstandard2.1/ViewModels.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/obj/Debug/netstandard2.1/ViewModels.csproj.CopyComplete
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/obj/Debug/netstandard2.1/ViewModels.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/ViewModels/obj/Debug/netstandard2.1/ViewModels.pdb

@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/bin/Debug/netstandard2.1/Models.deps.json
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/bin/Debug/netstandard2.1/Models.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/bin/Debug/netstandard2.1/Models.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/bin/Debug/netstandard2.1/Moj.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/bin/Debug/netstandard2.1/Resources.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/bin/Debug/netstandard2.1/Moj.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/bin/Debug/netstandard2.1/Resources.pdb
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/obj/Debug/netstandard2.1/Models.csprojAssemblyReference.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/obj/Debug/netstandard2.1/Models.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/obj/Debug/netstandard2.1/Models.AssemblyInfo.cs
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/obj/Debug/netstandard2.1/Models.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/obj/Debug/netstandard2.1/Models.csproj.CopyComplete
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/obj/Debug/netstandard2.1/Models.dll
+/Users/macbook/Desktop/TempMVC_ASP.NET/Models/obj/Debug/netstandard2.1/Models.pdb

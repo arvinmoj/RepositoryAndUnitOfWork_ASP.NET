@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/macbook/Desktop/TempMVC_ASP.NET/Moj/Moj.csproj": {}
+  },
+  "projects": {
+    "/Users/macbook/Desktop/TempMVC_ASP.NET/Moj/Moj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbook/Desktop/TempMVC_ASP.NET/Moj/Moj.csproj",
+        "projectName": "Moj",
+        "projectPath": "/Users/macbook/Desktop/TempMVC_ASP.NET/Moj/Moj.csproj",
+        "packagesPath": "/Users/macbook/.nuget/packages/",
+        "outputPath": "/Users/macbook/Desktop/TempMVC_ASP.NET/Moj/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/macbook/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.8, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
