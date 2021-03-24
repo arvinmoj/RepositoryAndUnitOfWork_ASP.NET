@@ -23,8 +23,29 @@ namespace My_Application
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<DatabaseContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("DatabaseContext")));
+            services.AddTransient<IUnitOfWork, UnitOfWork>(sp =>
+            {
+                Data.Tools.Options options =
+                    new Data.Tools.Options
+                    {
+                        Provider =
+                            (Data.Tools.Enums.Provider)
+                            System.Convert.ToInt32(Configuration.GetSection(key: "databaseProvider").Value),
+
+                        //using Microsoft.EntityFrameworkCore;
+                        //ConnectionString =
+                        //	Configuration.GetConnectionString().GetSection(key: "MyConnectionString").Value,
+
+                        ConnectionString =
+                            Configuration.GetSection(key: "ConnectionStrings").GetSection(key: "MyConnectionString").Value,
+                    };
+
+                return new UnitOfWork(options: options);
+            });
+
+            //services.AddDbContext<DatabaseContext>(options =>
+            //        options.UseSqlServer(Configuration.GetConnectionString("MyConnectionString")));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

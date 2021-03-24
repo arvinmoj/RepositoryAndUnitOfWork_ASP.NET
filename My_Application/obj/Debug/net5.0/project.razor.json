@@ -15603,6 +15603,16 @@
   "RootNamespace": "My_Application",
   "Documents": [
     {
+      "FilePath": "/Users/macbook/Desktop/TempMVC_ASP.NET/My_Application/Views/Users/Create.cshtml",
+      "TargetPath": "Views\\Users\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/macbook/Desktop/TempMVC_ASP.NET/My_Application/Views/Users/Index.cshtml",
+      "TargetPath": "Views\\Users\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/macbook/Desktop/TempMVC_ASP.NET/My_Application/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

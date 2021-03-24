@@ -67,7 +67,7 @@ namespace Data.Base
 
                         case Tools.Enums.Provider.InMemory:
                             {
-                                optionsBuilder.UseInMemoryDatabase(databaseName: "Temp");
+                                //optionsBuilder.UseInMemoryDatabase(databaseName: "Temp");
 
                                 break;
                             }

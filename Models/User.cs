@@ -10,43 +10,36 @@ namespace Models
         public User() : base()
         {
         }
-
+        
         // *****
-        [Required]
-        [MaxLength(64)]
-        [DataType(DataType.Text)]
         [Display(Name = "FullName")]
         public string FullName { get; set; }
         // *****
-        [Required]
-        [MaxLength(64)]
-        [DataType(DataType.Text)]
         [Display(Name = "Gender")]
-        public Enums.Gender Gender { get; set; }
+        public string Gender { get; set; }
         // *****
 
-        // *****
 
-        // *****
-        [Required]
-        [Display(Name = "UserNumber")]
-        public int UserNumber { get; set; }
-        // *****
+        // // *****
+        // [Required]
+        // [Display(Name = "UserNumber")]
+        // public int UserNumber { get; set; }
+        // // *****
 
-        // *****
-        [Required]
-        [MaxLength(64)]
-        [DataType(DataType.Text)]
-        [Display(Name = "UserName")]
-        public string UserName { get; set; }
-        // *****
+        // // *****
+        // [Required]
+        // [MaxLength(64)]
+        // [DataType(DataType.Text)]
+        // [Display(Name = "UserName")]
+        // public string UserName { get; set; }
+        // // *****
 
-        // *****
-        [Required]
-        [MaxLength(256)]
-        [DataType(DataType.Text)]
-        [Display(Name = "Password")]
-        public string Password { get; set; }
-        // *****
+        // // *****
+        // [Required]
+        // [MaxLength(256)]
+        // [DataType(DataType.Text)]
+        // [Display(Name = "Password")]
+        // public string Password { get; set; }
+        // // *****
     }
 }
